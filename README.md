@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am currently a student of University of Michigan. I love badminton, riding and coding! 
 <!--
 **jtwuuuuu/jtwuuuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
